@@ -1,4 +1,4 @@
-## Hi 👋, I'm Enzo
+### Hi 👋, I'm Enzo
 
 
 ## 👾 About Me
@@ -13,17 +13,18 @@
 #### 🧑🏼‍💻 I’m currently working on 
 
 - Software developer at TRIAN
-- I use daily: `.php`, `.js`, `.html`, `.css`, with a fascinated by `React.js`
+- I use daily: `.php`, `.js`, `.html`, `.css`, with a particular interest in React.js and TypeScript
 - I've been coding for the last 4 years 👨‍💻
 
 #### 📖 Open Source
 
-- Currently, I am working on migrating from .js to .ts on Apache Superset. [Apache Superset][apachesuperset]
+- Currently, I am working on migrating from .js to .ts on [Apache Superset][apachesuperset]
 
 #### 💻 Dev Kit
 
 - 🗺 [Arc Browser][arcbrowser]
 - 🗒️ [VsCode][vscode]
+- 💻 [Wez Term][wezterm] 
 
 #### 📬 Reach me at
 
@@ -35,3 +36,4 @@
 [react]: https://react.dev/
 [arcbrowser]:https://arc.net/
 [vscode]: https://code.visualstudio.com/
+[wezterm]: https://github.com/wez/wezterm

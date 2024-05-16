@@ -3,7 +3,7 @@
 
 ## 👾 About Me
 
-- 💻  I'm a software developer born in Italy who enjoys making pizza 🍕
+- 💻  I'm a full stack developer born in Italy who enjoys making pizza 🍕
 
 #### 🌱 I’m currently learning
 
@@ -14,7 +14,7 @@
 
 - Software developer at TRIAN
 - I use daily: `.php`, `.js`, `.html`, `.css`, with a particular interest in React.js and TypeScript
-- I've been coding for the last 4 years 👨‍💻
+- I've been coding for the last 5 years 👨‍💻
 
 #### 📖 Open Source
 
